@@ -11,7 +11,7 @@ No	Description	Link
 2	Lab 3 : Perulangan	Click Here
 3	Labpy02	Click Here
 4	Labpy03	Click Here
-5	Author : Yoga Pratama	Click Here
+5	Author : gugun gunawan	Click Here
 KONDISI DAN PERULANGAN
 Lab 2 Struktur Kondisi
 Latihan 1
